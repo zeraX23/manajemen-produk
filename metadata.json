@@ -1,0 +1,6 @@
+{
+  "name": "Manajemen Stok",
+  "description": "Aplikasi pencatatan stok barang masuk dan keluar secara real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

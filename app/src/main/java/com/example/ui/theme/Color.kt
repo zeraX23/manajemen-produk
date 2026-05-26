@@ -1,0 +1,33 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val md_theme_light_primary = Color(0xFF6750A4)
+val md_theme_light_onPrimary = Color(0xFFFFFFFF)
+val md_theme_light_primaryContainer = Color(0xFFEADDFF)
+val md_theme_light_onPrimaryContainer = Color(0xFF21005D)
+val md_theme_light_secondary = Color(0xFF625B71)
+val md_theme_light_onSecondary = Color(0xFFFFFFFF)
+val md_theme_light_secondaryContainer = Color(0xFFE8DEF8)
+val md_theme_light_onSecondaryContainer = Color(0xFF1D192B)
+val md_theme_light_tertiary = Color(0xFF7D5260)
+val md_theme_light_onTertiary = Color(0xFFFFFFFF)
+val md_theme_light_tertiaryContainer = Color(0xFFFFD8E4)
+val md_theme_light_onTertiaryContainer = Color(0xFF31111D)
+val md_theme_light_error = Color(0xFFB3261E)
+val md_theme_light_onError = Color(0xFFFFFFFF)
+val md_theme_light_errorContainer = Color(0xFFF9DEDC)
+val md_theme_light_onErrorContainer = Color(0xFF410E0B)
+val md_theme_light_background = Color(0xFFFDF8FD)
+val md_theme_light_onBackground = Color(0xFF1C1B1F)
+val md_theme_light_surface = Color(0xFFFFFFFF)
+val md_theme_light_onSurface = Color(0xFF1C1B1F)
+val md_theme_light_surfaceVariant = Color(0xFFF3EDF7)
+val md_theme_light_onSurfaceVariant = Color(0xFF49454F)
+val md_theme_light_outline = Color(0xFFCAC4D0)
+val md_theme_light_outlineVariant = Color(0xFFCAC4D0).copy(alpha = 0.3f)
+
+val theme_green = Color(0xFF15803d)
+val theme_greenContainer = Color(0xFFdcfce7)
+val theme_red = Color(0xFFb91c1c)
+val theme_redContainer = Color(0xFFfee2e2)
